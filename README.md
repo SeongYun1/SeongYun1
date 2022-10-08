@@ -1,14 +1,18 @@
-####😄About me
+<h1 align="center"> SeongYun1</h1>
+
+<h3>😄About me</h3>
 경희대학교 전자공학과 졸업 후 시드니 대학원에서 Data science 를 전공중인 김성윤이라고 합니다. 
 
-####✨프로젝트
+<h3>✨프로젝트</h3>
 경희대학교 전자공학과 졸업 후 시드니 대학원에서 Data science 를 전공중인 김성윤이라고 합니다. 
 
-####🌱목표
+<h3>🌱목표</h3>
 경희대학교 전자공학과 졸업 후 시드니 대학원에서 Data science 를 전공중인 김성윤이라고 합니다. 
 
-####⚡사용언어
-경희대학교 전자공학과 졸업 후 시드니 대학원에서 Data science 를 전공중인 김성윤이라고 합니다. 
+<h3>⚡사용언어</h3>
+<div>
+<img src="https://img.shields.io/badge/Python-F7DF1E?style=flat-square&logo=Python&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
+
 
 ####💬이메일
 <a href="https://tnas2b@gmail.com">
